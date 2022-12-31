@@ -1,0 +1,26 @@
+.input_div{
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+}
+input{
+    width: 250px;
+    height: 2rem;
+    background-color: aliceblue;
+    border: none;
+    border-radius: 8px;
+    color: rgb(10, 0, 0);
+    padding-left: 1rem;
+}
+button{
+    background-color: bisque;
+    color: black;
+    font-size: 18px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border-radius: 8px;
+    border: none;
+    font-weight: bold;
+    margin-left: 1rem;
+    cursor: pointer;
+}
